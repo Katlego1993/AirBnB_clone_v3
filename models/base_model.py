@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 seModel Class of Models Module
+=======
+#!/usr/bin/python3
+"""
+BaseModel Class of Models Module
+>>>>>>> 41437786f53a07f7f3072c820e2c77b43923a8fa
 """
 
 import os
